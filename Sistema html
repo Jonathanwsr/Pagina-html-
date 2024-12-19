@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Sistema em HTML</title>
+</head>
+<body>
+    <header>
+        <h1>Sistema de Relatórios de Produção</h1>
+        <p>Bem-vindo ao sistema de relatórios de produção. Este sistema foi projetado para gerar relatórios <mark>diários</mark>, <mark>semanais</mark>, <mark>mensais</mark> e <mark>anuais</mark>, ajudando a monitorar e otimizar o desempenho da produção.</p>
+    </header>
+
+    <section>
+        <h2>Características do Sistema</h2>
+        <ol>
+            <li><strong>Relatórios Detalhados:</strong> Incluem somatórios e análise gráfica.</li>
+            <li><strong>Interface Amigável:</strong> Fácil navegação para usuários.</li>
+            <li><strong>Personalização:</strong> Permite ajustar parâmetros para relatórios específicos.</li>
+        </ol>
+        <hr>
+    </section>
+
+    <section>
+        <h3>Instruções de Uso</h3>
+        <p>Para usar o sistema, siga os passos abaixo:</p>
+        <ul>
+            <li><i>Login:</i> Faça login com suas credenciais fornecidas pela TI.</li>
+            <li><u>Selecione:</u> Escolha o tipo de relatório desejado no menu principal.</li>
+            <li><abbr title="Portable Document Format">PDF</abbr>: Faça o download do relatório em formato PDF.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h4>Termos Importantes</h4>
+        <p><small>Nota:</small> Certifique-se de revisar os <abbr title="Key Performance Indicators">KPIs</abbr> antes de enviar os relatórios.</p>
+        <blockquote>"A produção eficiente é o coração de uma empresa bem-sucedida." - <small>Desconhecido</small></blockquote>
+        <p>Elementos excluídos dos relatórios serão indicados com <del>riscado</del> no texto.</p>
+    </section>
+
+    <footer>
+        <h5>Entre em Contato</h5>
+        <p>Para dúvidas ou sugestões, entre em contato através do nosso suporte técnico: <a href="mailto:suporte@empresa.com">suporte@empresa.com</a>.</p>
+        <h6>Copyright &copy; 2024 - Sistema de Relatórios</h6>
+    </footer>
+</body>
+</html>
